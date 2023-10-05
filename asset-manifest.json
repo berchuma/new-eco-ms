@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/new-eco-ms/static/css/main.d14fffb7.css",
+    "main.js": "/new-eco-ms/static/js/main.8b386aa4.js",
+    "index.html": "/new-eco-ms/index.html",
+    "main.d14fffb7.css.map": "/new-eco-ms/static/css/main.d14fffb7.css.map",
+    "main.8b386aa4.js.map": "/new-eco-ms/static/js/main.8b386aa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d14fffb7.css",
+    "static/js/main.8b386aa4.js"
+  ]
+}
